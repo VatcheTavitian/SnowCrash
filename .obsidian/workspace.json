@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "level08/Resources/Vector.md",
+                "file": "level10/Resources/Vector.md",
                 "mode": "source",
                 "source": false
               },
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -154,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -164,6 +166,14 @@
   },
   "active": "efa54891978de768",
   "lastOpenFiles": [
+    "level09/Flag09.md",
+    "level10/Resources/Vector.md",
+    "level10/Resources",
+    "level09/Resources/Vector.md",
+    "level08/Resources/Vector.md",
+    "level09/Resources/decode_script.py",
+    "level09/Resources/script.py.md",
+    "level09/Resources",
     "level07/Resources/Vector.md",
     "level06/Resources/Vector.md",
     "level05/Resources/Vector.md",
@@ -173,7 +183,6 @@
     "level01/Resources/Vector.md",
     "level00/Resources/Vector.md",
     "images/Pasted image 20250913225648.png",
-    "level08/Resources/Vector.md",
     "images",
     "level08/Flag08.md",
     "images/Pasted image 20250914044934.png",
@@ -195,9 +204,6 @@
     "level14",
     "level00 (copy 1)/flag",
     "level00 (copy 1)/Resources",
-    "level00 (copy 1)",
-    "level13/flag",
-    "level13/Resources",
-    "level13"
+    "level00 (copy 1)"
   ]
 }
