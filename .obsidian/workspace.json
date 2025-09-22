@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "26ad17f98906cc60",
+        "id": "09c10bfdb82e68be",
         "type": "tabs",
         "children": [
           {
-            "id": "da031333b1f24f94",
+            "id": "5dddc0ae5305e7db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "level13/Resources/Vector.md",
+                "file": "level14/Resources/Vector.md",
                 "mode": "source",
                 "source": false
               },
@@ -164,15 +164,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da031333b1f24f94",
+  "active": "5dddc0ae5305e7db",
   "lastOpenFiles": [
+    "level14/Resources/ft_des_decrypt_script.c",
+    "level13/Resources/Vector.md",
+    "level14/Resources/Vector.md",
+    "images/Pasted image 20250922181906.png",
+    "images/Pasted image 20250922181902.png",
+    "level12/Resources/Vector.md",
     "images/Pasted image 20250922171743.png",
     "images/Pasted image 20250922170502.png",
     "images/Pasted image 20250922171628.png",
-    "level13/Resources/Vector.md",
     "images/Pasted image 20250922170819.png",
     "images/Pasted image 20250922170451.png",
-    "level12/Resources/Vector.md",
     "level13/Resources/ft_des_decrypt_script.c",
     "images/Pasted image 20250922164430.png",
     "level11/Resources/Vector.md",
@@ -182,7 +186,6 @@
     "level10/Resources/Vector.md",
     "images/Pasted image 20250914061903.png",
     "images/Pasted image 20250914061344.png",
-    "images/Pasted image 20250914061117.png",
     "level09/Resources/Vector.md",
     "level08/Resources/Vector.md",
     "level09/Resources/decode_script.py",
@@ -195,7 +198,6 @@
     "level02/Resources/Vector.md",
     "level01/Resources/Vector.md",
     "level00/Resources/Vector.md",
-    "images/Pasted image 20250913225648.png",
     "images",
     "level08/Flag08.md",
     "level07/Flag07.md",
@@ -204,7 +206,6 @@
     "level05/Flag05.md",
     "level01/Flag01.md",
     "level02/Flag02.md",
-    "level03/Flag03.md",
     "level14/flag",
     "level14/Resources",
     "level14",
