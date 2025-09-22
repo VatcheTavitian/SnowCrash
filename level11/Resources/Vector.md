@@ -61,7 +61,7 @@ connect to [10.13.200.129] from (UNKNOWN) [10.13.200.131] 52966
 $ whoami
 flag11
 $ getflag
-Check flag.Here is your token : fa6v5ateaw21peobuub8ip
+Check flag.Here is your token : fa6v5ateaw21peobuub8ipe6s
 ```
 
 - Using the token authenticate as `level12` on the target host
