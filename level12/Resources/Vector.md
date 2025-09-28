@@ -43,7 +43,7 @@ level12@SnowCrash:/tmp$ ls -d /tmp/SCRIPT
 - We see the full path to the script is /tmp/SCRIPT which will become /TMP/SCRIPT once the script runs. However, thanks to globbing which uses `*` wildcard to match and expand any string in shell. So if we run `/*/SCRIPT` it will expand all directories at root level, no matter what they are called, and searches each directory for `SCRIPT`. We execute the curl command below to run the `SCRIPT` we prepared.
 
 ```
-level12@SnowCrash:/tmp$ curl localhost:4646/?x="$(/*/SCRIPT)"
+level12@SnowCrash:/tmp$ curl 'localhost:4646/?x="$(/*/SCRIPT)"'
 ```
 
 - The script inside `/tmp/SCRIPT` is executed and a reverse shell is obtained on the attack machine. Running `getflag` obtains the token
